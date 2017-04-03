@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="alertdialog">顯現Alert Dialog視窗</string>
+</resources>
