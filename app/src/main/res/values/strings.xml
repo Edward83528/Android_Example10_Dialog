@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Dialog</string>
-    <string name="alertdialog">顯現Alert Dialog視窗</string>
+    <string name="alertdialog">顯現基本Alert Dialog</string>
+    <string name="alertdialog_add_list">顯現Alert Dialog的List視窗</string>
+    <string name="alertdialog_add_ourlayout">顯現Alert Dialog加入我們自己的Layout</string>
 </resources>
